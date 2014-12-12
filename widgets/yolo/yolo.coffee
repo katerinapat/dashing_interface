@@ -3,7 +3,6 @@ class Dashing.Yolo extends Dashing.Widget
     $('.yolobtn').bind 'click', (event) =>
       @yolocnt =((Math.round(Math.random() * (100 - 1))))
 
-    @set('yolocnt', @yolocnt + "%" )
 	  	
 
 		
