@@ -1,0 +1,45 @@
+
+// ----------------------------------------------------------------------------
+// Sass declarations
+// ----------------------------------------------------------------------------
+$light-color: rgba(255, 255, 255, 0.7);
+
+.widget-holidays {
+
+	background: #075935;
+	.backgroung {
+		background: url("/assets/logo_brno.png");
+		position: absolute;
+		bottom: 0px;
+		width: 120%;
+		height: 25%;
+		margin-left: -80px;
+	}
+
+	h1 {
+	 	font-size: 20px;
+	 	margin-top: 20px;
+	 	font-weight: bold;
+	 }
+	
+	.holidays {
+
+		position: absolute;
+		top: 0px;
+
+		td {
+			padding: 10px;
+			font-size: 15px;
+			color: $light-color;
+		}
+		th {
+			font-size: 18px;
+		}
+		table {
+			margin: 20px auto;
+			position: relative;
+			top: 60px;
+		}
+		
+	}
+}

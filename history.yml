@@ -1,0 +1,28 @@
+---
+valuation: |+
+  data: {"current":29,"last":22,"id":"valuation","updatedAt":1418357588}
+
+karma: |+
+  data: {"current":44421,"last":181933,"id":"karma","updatedAt":1418357588}
+
+synergy: |+
+  data: {"value":3,"id":"synergy","updatedAt":1418357588}
+
+buzzwords: |+
+  data: {"items":[{"label":"Exit strategy","value":8},{"label":"Paradigm shift","value":24},{"label":"Enterprise","value":21},{"label":"Leverage","value":29},{"label":"Web 2.0","value":23},{"label":"Turn-key","value":15},{"label":"Streamlininess","value":27},{"label":"Pivoting","value":13},{"label":"Synergy","value":3}],"id":"buzzwords","updatedAt":1418357588}
+
+convergence: |+
+  data: {"points":[{"x":7274,"y":12},{"x":7275,"y":25},{"x":7276,"y":29},{"x":7277,"y":34},{"x":7278,"y":28},{"x":7279,"y":4},{"x":7280,"y":37},{"x":7281,"y":45},{"x":7282,"y":6},{"x":7283,"y":32}],"id":"convergence","updatedAt":1418357588}
+
+weather: |+
+  data: {"temp":"-2&deg;C","condition":"Light Snow","title":"Ottawa Weather","climacon":"snow","id":"weather","updatedAt":1418250747}
+
+forecast: |+
+  data: {"city":"Brno","current_temp":"3&deg;","current_icon":"clear-night","current_desc":"Clear","later_icon":"partly-cloudy-night","later_desc":"Mostly cloudy until tomorrow morning.","id":"forecast","updatedAt":1418357444}
+
+forecast_her: |+
+  data: {"city":"Heraklion","current_temp":"12&deg;","current_icon":"partly-cloudy-night","current_desc":"Clear","later_icon":"rain","later_desc":"Light rain throughout the day.","id":"forecast_her","updatedAt":1418357444}
+
+quote: |+
+  data: {"title":"“Notice that Autumn is more the season of the soul than of nature.”<br/><br/> - <em><em>Friedrich Nietzsche</em> (via <a rel=\"nofollow\" class=\"tumblr_blog\" target=\"_blank\" href=\"http://ift.tt/1siyjCO\">quotesandwheats</a>)</em>","text":"","moreinfo":"famousestquotes.tumblr.com","id":"quote","updatedAt":1418357583}
+

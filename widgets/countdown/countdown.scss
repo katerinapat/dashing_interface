@@ -1,0 +1,39 @@
+// ----------------------------------------------------------------------------
+// Sass declarations
+// ----------------------------------------------------------------------------
+$background-color: #C60707;
+ 
+// ----------------------------------------------------------------------------
+// Widget-clock styles
+// ----------------------------------------------------------------------------
+.widget-countdown {
+	background-color: red;
+	.backgroundimg {
+		background: url("/assets/santa.png") no-repeat;
+		background-size: 200px 200px;
+		opacity: 0.8;
+		position: absolute;
+		bottom: -168px;
+				
+		width: 80%;
+		height: 100%;
+		left: 0px;
+	}
+	 
+	h2 { font-size: 2em;}
+	 
+	h1 { font-size: 2em;}
+	 
+	.countdown-time {
+		margin-top: 10px;
+		color: gold;
+	}
+	 
+	.before-more-info {
+		font-size: 15px;
+		position: absolute;
+		bottom: 52px;
+		left: 0;
+		right: 0;
+	}
+} 
